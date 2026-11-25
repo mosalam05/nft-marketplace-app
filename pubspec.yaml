@@ -26,7 +26,6 @@ flutter:
     - assets/images/home/
     - assets/images/home/categories/
     - assets/images/home/hot_new_items/
-    - assets/images/home/nav_bar/
     - assets/images/home/top_seller/
     - assets/images/home/trending/
     - assets/images/stats/
